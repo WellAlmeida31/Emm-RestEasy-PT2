@@ -1,7 +1,7 @@
-package com.example.emm.service;
+package com.example.projeto2.service;
 
-import com.example.emm.client.dto.DataDto;
-import com.example.emm.domain.AddressData;
+import com.example.projeto2.client.dto.DataDto;
+import com.example.projeto2.domain.AddressData;
 import org.springframework.stereotype.Service;
 
 @Service

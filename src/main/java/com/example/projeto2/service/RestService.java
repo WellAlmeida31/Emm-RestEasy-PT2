@@ -1,8 +1,8 @@
-package com.example.emm.service;
+package com.example.projeto2.service;
 
-import com.example.emm.client.dto.DataDto;
-import com.example.emm.domain.dto.ConnectionDto;
-import com.example.emm.utils.Util;
+import com.example.projeto2.client.dto.DataDto;
+import com.example.projeto2.domain.dto.ConnectionDto;
+import com.example.projeto2.utils.Util;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

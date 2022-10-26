@@ -1,13 +1,13 @@
-package com.example.emm;
+package com.example.projeto2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EmmApplication {
+public class Projeto2Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EmmApplication.class, args);
+		SpringApplication.run(Projeto2Application.class, args);
 	}
 
 }

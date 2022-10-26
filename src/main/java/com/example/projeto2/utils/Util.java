@@ -1,6 +1,6 @@
-package com.example.emm.utils;
+package com.example.projeto2.utils;
 
-import com.example.emm.domain.dto.ConnectionDto;
+import com.example.projeto2.domain.dto.ConnectionDto;
 import com.google.gson.Gson;
 import lombok.experimental.UtilityClass;
 

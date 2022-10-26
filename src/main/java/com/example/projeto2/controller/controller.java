@@ -1,7 +1,7 @@
-package com.example.emm.controller;
+package com.example.projeto2.controller;
 
-import com.example.emm.service.RestService;
-import com.example.emm.utils.Util;
+import com.example.projeto2.service.RestService;
+import com.example.projeto2.utils.Util;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -16,8 +16,8 @@ public class controller {
     @Autowired
     private RestService restService;
 
-    @PostMapping("/emmpost")
-    public ResponseEntity<?> emmPost(@RequestBody String connectionDto){
+    @PostMapping("/projeto2post")
+    public ResponseEntity<?> projeto2post(@RequestBody String connectionDto){
         return  ok(restService.action(Util.toObject(connectionDto)));
     }
 

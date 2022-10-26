@@ -1,8 +1,6 @@
-package com.example.emm.domain.dto;
+package com.example.projeto2.domain.dto;
 
 import lombok.*;
-
-import java.util.List;
 
 @Setter
 @Getter

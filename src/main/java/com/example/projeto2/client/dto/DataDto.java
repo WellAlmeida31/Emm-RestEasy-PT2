@@ -1,4 +1,4 @@
-package com.example.emm.client.dto;
+package com.example.projeto2.client.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

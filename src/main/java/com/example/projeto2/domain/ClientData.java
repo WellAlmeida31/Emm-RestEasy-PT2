@@ -1,4 +1,4 @@
-package com.example.emm.domain;
+package com.example.projeto2.domain;
 
 import lombok.*;
 
